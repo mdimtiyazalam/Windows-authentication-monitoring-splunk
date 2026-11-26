@@ -138,3 +138,26 @@ The main lab setup and detection work are complete. I plan to add more detection
 ## Disclaimer
 
 This project was carried out in my own home lab. All failed login attempts were generated intentionally for testing. No external systems or accounts were targeted.
+
+## Screenshots
+
+### 1. Splunk running
+![Splunk running](Screenshots/01-splunk-running.png.png)
+
+### 2. Windows Security Logs
+![Windows Security Logs](Screenshots/02-windows-security-logs.png.png)
+
+### 3. Successful Login Events (4624)
+![Successful Logins](Screenshots/03-successful-logins-4624.png.png)
+
+### 4. Failed Login Events (4625)
+![Failed Logins](Screenshots/04-failed-logins-4625.png.png)
+
+### 5. Brute-Force Detection
+![Brute Force Detection](Screenshots/05-brute-force-detection.png.png)
+
+### 6. Alert Configuration
+![Alert Configuration](Screenshots/06-brute-force-alert-configuration.png.png)
+
+### 7. Monitoring Dashboard
+![Monitoring Dashboard](Screenshots/08-windows-security-monitoring-dashboard.png.png)
