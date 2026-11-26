@@ -133,7 +133,9 @@ This project gave me practical experience with:
 
 ## Project Status
 
-The main lab setup and detection work are complete. I plan to add more detection searches and investigation scenarios as I continue learning.
+Version 1 of this project is complete. I successfully configured Windows Security log forwarding to Splunk, investigated authentication events, created a brute-force detection search, configured a scheduled alert, and built a Windows security monitoring dashboard.
+
+I plan to expand the project in the future by adding more detection rules and investigating additional security scenarios.
 
 ## Disclaimer
 
